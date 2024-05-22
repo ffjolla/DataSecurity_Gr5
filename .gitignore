@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pywz
+*.pyw
+*.py~
+
+# Virtual environments
+venv/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/

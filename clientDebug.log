@@ -1,0 +1,2 @@
+2024-05-22 22:46:18,713 - DEBUG - Sending message with HMAC: [Data Security | cc5e23bfda82fd1cb586461ccab0ec16fd44bf1e8816fcd9d0b11a17bd706a34]
+2024-05-22 22:46:18,713 - INFO - Server response: Message verified successfully. Integrity and authenticity confirmed.

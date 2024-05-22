@@ -85,4 +85,7 @@ def startServer():
         logger.critical(f"Server encountered an error: {e}")
 # Start the server function when the script is executed
 if __name__ == "__main__":
-    startServer()
+    try:
+        startServer()
+    except KeyboardInterrupt:
+        logger.info("Server interrupted by user. Exiting.")

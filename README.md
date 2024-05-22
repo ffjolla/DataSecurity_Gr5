@@ -40,10 +40,10 @@ Steps to execute Client<br>
 Client<br>
  ![client](https://github.com/ffjolla/DataSecurity_Gr5/assets/154750535/03487a0c-4f3d-4494-89e1-dc0a7d4a66ab)
 
-Server File<br>
+serverDebug.log<br>
  ![serverD](https://github.com/ffjolla/DataSecurity_Gr5/assets/154750535/0650557f-94ae-40cf-93ce-f11c65ef0453)
  
-Client File<br>
+clientDebug.log<br>
 ![clientD](https://github.com/ffjolla/DataSecurity_Gr5/assets/154750535/16079bde-b4b7-47b8-84ce-7e9f7a431446)
 
 

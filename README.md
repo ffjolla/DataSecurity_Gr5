@@ -31,6 +31,7 @@ Steps to execute Client<br>
  - Once you're in the correct directory, type the command python client.py and press Enter.<br>
  - The client will prompt you to input a message to send to the server. Enter your message and press Enter.<br>
  - Wait for the server response, which will be displayed in the terminal after the message verification.<br>
+ - Clients may exit the program at any time by pressing Ctrl+C, triggering a KeyboardInterrupt exception, upon which the program will gracefully terminate, informing the user through a log message before closing. <br>
 
  Console Output<br>
  
